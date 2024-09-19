@@ -21,7 +21,7 @@ const Navbar = () => {
         <div className="flex-between gap-5">
           {/* Clerk - User Management */}
 
-          <MobileNav />
+          {/* <MobileNav /> */}
         </div>
       </Link>
     </nav>
