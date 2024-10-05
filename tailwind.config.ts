@@ -9,11 +9,6 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
       borderRadius: {
         lg: 'var(--radius)',
         md: 'calc(var(--radius) - 2px)',
@@ -22,9 +17,10 @@ const config: Config = {
       colors: {
         dark: { 1: '#1C1F2E', 2: '#161925' },
         blue: { 1: '#0E78F9' },
-        backgroundImage: {
-          hero: "url('/images/hero-background.jpg')",
-        },
+        sky: { 1: '#C9DDFF' },
+      },
+      backgroundImage: {
+        hero: "url('/images/hero-background.png')",
       },
     },
   },
