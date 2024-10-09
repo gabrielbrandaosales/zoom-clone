@@ -14,7 +14,8 @@
 ### Ajustes e melhorias
 
 - [x] Navbar
-- [ ] Home Page
+- [x] Home Page
+- [ ] Reusabel Modal
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
