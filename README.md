@@ -7,9 +7,9 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabrielbrandaosales/zoom-clone?style=for-the-badge)-->
 
 <a href='http://yoom-clone-pearl.vercel.app' target="_blank">
-<!-- <img src="/public/site-image.png" alt="Exemplo imagem"> -->
+<img src="https://i.imgur.com/ChHH6b7.png" alt="Exemplo imagem">
 </a>  
-> Este é o meu portfólio, que reúne minhas experiências profissionais, projetos pessoais e minha formação acadêmica.
+> Este é um projeto que via construir uma plataforma de comunicação através do navegador com bibliotecas para autenticação e stream.
 
 ### Ajustes e melhorias
 
