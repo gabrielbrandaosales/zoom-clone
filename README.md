@@ -16,7 +16,8 @@
 - [x] Navbar
 - [x] Home Page
 - [x] Reusabel Modal
-- [ ] Stream create meeting
+- [x] Stream create meeting
+- [ ] Stream create meeting room
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
